@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Figma Pages
+
+https://www.figma.com/design/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=0-1&node-type=canvas
+
 ## Available Scripts
 
 In the project directory, you can run:
